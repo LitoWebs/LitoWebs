@@ -6,7 +6,6 @@
          height="80"
          width="90" />, I'm Lito</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%7E2285FF&size=25&center=true&vCenter=true&width=600&height=100&lines=python+engineer+@Swissblock;your+typical+cs+ai+student;got-fan;bookworm;always+learning+new+things;this+is+the+way"></a>
 </p>
 
 <div align="center">
